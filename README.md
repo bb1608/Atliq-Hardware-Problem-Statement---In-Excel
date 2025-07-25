@@ -53,7 +53,9 @@ Key step: Mapped "Market" to "Country" to align targets with performance.
 
 Finance Report
 Project Objectives:
-Create Profit & Loss (P&L) Reports by Fiscal Year – View Report & Months – View Report.
+Profit & Loss (P&L) Reports by Fiscal Year – https://github.com/bb1608/Atliq-Hardware-Problem-Statement---In-Excel/blob/main/Profit%20%26%20Loss%20Statement%20by%20Fiscal%20Year.pdf
+View Report & Months 
+– View Report.
 
 Develop P&L Reports by Markets – View Report.
 
