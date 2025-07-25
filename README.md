@@ -15,9 +15,9 @@ fact_sales_monthly
 
 Sales Report
 Project Objectives:
-Customer Performance Report – https://github.com/bb1608/Atliq-Hardware-Problem-Statement---In-Excel/blob/main/Customer%20Performance%20Report.pdf
+Customer Performance Report – [View Report.](https://github.com/bb1608/Atliq-Hardware-Problem-Statement---In-Excel/blob/main/Customer%20Performance%20Report.pdf)
 
-Market Performance vs. Sales Targets – https://github.com/bb1608/Atliq-Hardware-Problem-Statement---In-Excel/blob/main/Markel%20Performance%20vs%20Target%20report.pdf
+Market Performance vs. Sales Targets – [View Report.](https://github.com/bb1608/Atliq-Hardware-Problem-Statement---In-Excel/blob/main/Markel%20Performance%20vs%20Target%20report.pdf)
 
 Purpose of Sales Analytics:
 Enable businesses to monitor and evaluate sales performance across customers and markets.
@@ -53,9 +53,9 @@ Key step: Mapped "Market" to "Country" to align targets with performance.
 
 Finance Report
 Project Objectives:
-Profit & Loss (P&L) Reports by Fiscal Year – https://github.com/bb1608/Atliq-Hardware-Problem-Statement---In-Excel/blob/main/Profit%20%26%20Loss%20Statement%20by%20Fiscal%20Year.pdf
+Profit & Loss (P&L) Reports by Fiscal Year – [View Report.](https://github.com/bb1608/Atliq-Hardware-Problem-Statement---In-Excel/blob/main/Profit%20%26%20Loss%20Statement%20by%20Fiscal%20Year.pdf)
 
-P&L Report & Months :[View Report.]https://github.com/bb1608/Atliq-Hardware-Problem-Statement---In-Excel/blob/main/Profit%20%26%20Loss%20Statement%20by%20Month.pdf
+P&L Report & Months :[View Report.](https://github.com/bb1608/Atliq-Hardware-Problem-Statement---In-Excel/blob/main/Profit%20%26%20Loss%20Statement%20by%20Month.pdf)
 
 P&L Reports by Markets – [View Report.](https://github.com/bb1608/Atliq-Hardware-Problem-Statement---In-Excel/blob/main/Profit%20%26%20Loss%20Statement%20by%20Market.pdf)
 
