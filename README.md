@@ -15,7 +15,7 @@ fact_sales_monthly
 
 Sales Report
 Project Objectives:
-Customer Performance Report – 
+Customer Performance Report – https://github.com/bb1608/Atliq-Hardware-Problem-Statement---In-Excel/blob/main/Customer%20Performance%20Report.pdf
 
 Market Performance vs. Sales Targets – 
 
