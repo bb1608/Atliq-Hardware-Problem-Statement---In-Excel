@@ -17,7 +17,7 @@ Sales Report
 Project Objectives:
 Customer Performance Report – https://github.com/bb1608/Atliq-Hardware-Problem-Statement---In-Excel/blob/main/Customer%20Performance%20Report.pdf
 
-Market Performance vs. Sales Targets – 
+Market Performance vs. Sales Targets – https://github.com/bb1608/Atliq-Hardware-Problem-Statement---In-Excel/blob/main/Markel%20Performance%20vs%20Target%20report.pdf
 
 Purpose of Sales Analytics:
 Enable businesses to monitor and evaluate sales performance across customers and markets.
