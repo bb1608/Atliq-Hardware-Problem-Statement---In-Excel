@@ -106,4 +106,4 @@ Acquired hands-on experience with Power Query Reference, dim_date creation, and 
 Developed Market Performance vs Targets and P&L reports using advanced Power Pivot and DAX.
 
 Enhanced ability to transform raw sales and financial data into strategic business insights.
-Linkedln : https://www.linkedin.com/posts/bulbul-babu-619b55258_successfully-completed-excel-sales-activity-7354486265267855362-MU3r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-HvjUBODQXO6AKb_dUMZ95aUOXrDq0CwM
+Linkedln :https://lnkd.in/eTz8ip4z
